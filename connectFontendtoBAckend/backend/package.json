@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "ye backend aur frontend ko kaise connect kiya jaye is per practice hai",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+"start": "node server.js"  },
+  "author": "vishal singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
